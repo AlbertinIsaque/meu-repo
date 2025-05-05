@@ -1,0 +1,15 @@
+C:\dev\meu-repo\bin\Debug\net9.0\meu-repo.exe
+C:\dev\meu-repo\bin\Debug\net9.0\meu-repo.deps.json
+C:\dev\meu-repo\bin\Debug\net9.0\meu-repo.runtimeconfig.json
+C:\dev\meu-repo\bin\Debug\net9.0\meu-repo.dll
+C:\dev\meu-repo\bin\Debug\net9.0\meu-repo.pdb
+C:\dev\meu-repo\obj\Debug\net9.0\meu-repo.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\meu-repo\obj\Debug\net9.0\meu-repo.AssemblyInfoInputs.cache
+C:\dev\meu-repo\obj\Debug\net9.0\meu-repo.AssemblyInfo.cs
+C:\dev\meu-repo\obj\Debug\net9.0\meu-repo.csproj.CoreCompileInputs.cache
+C:\dev\meu-repo\obj\Debug\net9.0\meu-repo.sourcelink.json
+C:\dev\meu-repo\obj\Debug\net9.0\meu-repo.dll
+C:\dev\meu-repo\obj\Debug\net9.0\refint\meu-repo.dll
+C:\dev\meu-repo\obj\Debug\net9.0\meu-repo.pdb
+C:\dev\meu-repo\obj\Debug\net9.0\meu-repo.genruntimeconfig.cache
+C:\dev\meu-repo\obj\Debug\net9.0\ref\meu-repo.dll
